@@ -1,0 +1,29 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+
+driver = webdriver.Firefox()
+
+try:
+    driver.get("http://the-internet.herokuapp.com/inputs")
+
+    input_field = driver.find_element(By.TAG_NAME, "input")
+
+    input_field.send_keys("123")
+    driver.save_screenshot("screenshot_1.png")
+    time.sleep(2)
+    input_field.clear()
+
+    input_field.send_keys("-456")
+    driver.save_screenshot("screenshot_2.png")
+    time.sleep(2)
+    input_field.clear()
+
+    input_field.send_keys("abc")
+    driver.save_screenshot("screenshot_3.png")
+    time.sleep(2)
+
+    print("test completed successfully")
+
+finally:
+    driver.quit()

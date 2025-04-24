@@ -1,0 +1,2 @@
+pants,oversize,silver,cotton,XXL,dickes,50
+pants,oversize,silver,cotton,L,dickes,50

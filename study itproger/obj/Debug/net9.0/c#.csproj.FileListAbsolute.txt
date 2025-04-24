@@ -1,0 +1,14 @@
+/Users/denisdenysenko/Documents/c#/study itproger/bin/Debug/net9.0/c#
+/Users/denisdenysenko/Documents/c#/study itproger/bin/Debug/net9.0/c#.deps.json
+/Users/denisdenysenko/Documents/c#/study itproger/bin/Debug/net9.0/c#.runtimeconfig.json
+/Users/denisdenysenko/Documents/c#/study itproger/bin/Debug/net9.0/c#.dll
+/Users/denisdenysenko/Documents/c#/study itproger/bin/Debug/net9.0/c#.pdb
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.AssemblyInfoInputs.cache
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.AssemblyInfo.cs
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.csproj.CoreCompileInputs.cache
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.dll
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/refint/c#.dll
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.pdb
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/c#.genruntimeconfig.cache
+/Users/denisdenysenko/Documents/c#/study itproger/obj/Debug/net9.0/ref/c#.dll
